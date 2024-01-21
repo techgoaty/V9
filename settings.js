@@ -29,13 +29,13 @@ global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
-global.botname = "ednut bot"
+global.botname = "𝕰𝖉𝖓𝖚𝖙 𝖙𝖍𝖆 𝖑𝖊𝖌𝖊𝖓𝖉"
 global.ownernumber = '2347036214381'
-global.ownername = '亗『ＧＥＥ』亗'
+global.ownername = '亗『𝐋𝐄𝐆𝐄𝐍𝐃𝐀𝐑𝐘 𝐄𝐃𝐍𝐔𝐓』亗'
 global.ownerNumber = ["2347036214381@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@DGXeon"
 global.websitex = "https://youtube.com/@DGXeon"
-global.wagc = "https://chat.whatsapp.com/Kjm8rnDFcpb04gQNSTbW2d"
+global.wagc = "https://chat.whatsapp.com/KRvekLByg21DrMn2SYY3db"
 global.themeemoji = '😂'
 global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
@@ -61,7 +61,7 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 
 //messages
 global.mess = {
-    success: 'nonesence done by gee!', 
+    success: 'Ednut did this!', 
 }
 
 let file = require.resolve(__filename)
