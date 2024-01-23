@@ -29,7 +29,7 @@ global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
-global.botname = "𝕰𝖉𝖓𝖚𝖙 𝖙𝖍𝖆 𝖑𝖊𝖌𝖊𝖓𝖉"
+global.botname = "ednut"
 global.ownernumber = '2347036214381'
 global.ownername = '亗『𝐋𝐄𝐆𝐄𝐍𝐃𝐀𝐑𝐘 𝐄𝐃𝐍𝐔𝐓』亗'
 global.ownerNumber = ["2347036214381@s.whatsapp.net"]
