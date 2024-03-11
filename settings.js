@@ -22,17 +22,17 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.ownernomer = "2349169580302" //ur owner number2
-global.ownername = "patron" //ur owner name
+global.ownernomer = "2348118820641" //ur owner number2
+global.ownername = "ᴀⁿᵒⁿʸᵐⁱˣ" //ur owner name
 global.ytname = "YT: Xeon" //ur yt chanel name
 global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
-global.botname = "princess nana"
-global.ownernumber = '2349169580302'
-global.ownername = '亗『NANA』亗'
-global.ownerNumber = ["2348025532222@s.whatsapp.net"]
+global.botname = "ᴀɴᴏɴʏᴍɪx"
+global.ownernumber = '2348118820641'
+global.ownername = '亗ᴀɴᴏɴʏᴍᴏᴜs亗'
+global.ownerNumber = ["2348118820641@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@DGXeon"
 global.websitex = "https://youtube.com/@DGXeon"
 global.wagc = "https://chat.whatsapp.com/B6hifgu7KbF0Y6hRg0mJAp"
@@ -40,8 +40,8 @@ global.themeemoji = '😂'
 global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
 global.packname = "Sticker By"
-global.author = "🦄드림 가이 Xeon\n\n+916909137213"
-global.creator = "2348025532222@s.whatsapp.net"
+global.author = "🦄드림 가이 Xeon\n\n+2348118820641"
+global.creator = "2348118820641@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.sessionName = 'session'
 global.hituet = 0
@@ -61,7 +61,7 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 
 //messages
 global.mess = {
-    success: 'Nana did this!', 
+    success: ' ᴀɴᴏɴʏᴍᴏᴜs ᴅɪᴅ ᴛʜɪs!', 
 }
 
 let file = require.resolve(__filename)
