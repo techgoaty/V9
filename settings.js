@@ -29,9 +29,9 @@ global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
-global.botname = "ᴀɴᴏɴʏᴍɪx"
+global.botname = "ARCANE BOT🤘"
 global.ownernumber = '18494635311'
-global.ownername = '亗ᴀɴᴏɴʏᴍᴏᴜs亗'
+global.ownername = '亗aʀċaռɛ亗'
 global.ownerNumber = ["18494635311@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@DGXeon"
 global.websitex = "https://youtube.com/@DGXeon"
@@ -61,7 +61,7 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 
 //messages
 global.mess = {
-    success: ' ᴀɴᴏɴʏᴍᴏᴜs ᴅɪᴅ ᴛʜɪs!', 
+    success: ' aʀċaռɛ  ᴅɪᴅ ᴛʜɪs!', 
 }
 
 let file = require.resolve(__filename)
