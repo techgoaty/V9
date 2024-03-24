@@ -29,13 +29,13 @@ global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
-global.botname = "ARCANE BOT🤘"
+global.botname = "𝚝𝚑𝚎 𝚍𝚎𝚟𝚒𝚕 𝚑𝚒𝚖𝚜𝚎𝚕𝚏༒🤘"
 global.ownernumber = '18494635311'
 global.ownername = '亗aʀċaռɛ亗'
 global.ownerNumber = ["18494635311@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@DGXeon"
 global.websitex = "https://youtube.com/@DGXeon"
-global.wagc = "https://chat.whatsapp.com/J7T90y2x10K1iZJt3Bu2n"
+global.wagc = "https://chat.whatsapp.com/J7T90y2x10K1iZJt3Bu2nd"
 global.themeemoji = '🌹'
 global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
