@@ -30,14 +30,14 @@ global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
 global.botname = "𝚝𝚑𝚎 𝚍𝚎𝚟𝚒𝚕 𝚑𝚒𝚖𝚜𝚎𝚕𝚏༒🤘"
-global.ownernumber = '2349124219705'
+global.ownernumber = '2349167044821'
 global.ownername = '亗𝚃𝙴𝙲𝙷𝙶𝙾𝙰𝚃亗'
 global.ownerNumber = ["2349124219705@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@DGXeon"
 global.websitex = "https://youtube.com/@DGXeon"
 global.wagc = "https://chat.whatsapp.com/B6hifgu7KbF0Y6hRg0mJAp"
 global.themeemoji = '🌹'
-global.wm = "Xeon Bot Inc."
+global.wm = "anonymix Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
 global.packname = "Sticker By"
 global.author = "🦄드림 가이 Xeon\n\n2349043073751"
