@@ -1,3 +1,4 @@
+
 const chalk = require("chalk")
 const fs = require("fs")
 
@@ -23,16 +24,16 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.ownernomer = "2349167044821" //ur owner number2
-global.ownername = "NAGOROM" //ur owner name
+global.ownername = "ANONYMOUS 🎼" //ur owner name
 global.ytname = "YT: Xeon" //ur yt chanel name
 global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
-global.botname = "𝚝𝚑𝚎 𝚍𝚎𝚟𝚒𝚕 𝚑𝚒𝚖𝚜𝚎𝚕𝚏༒🤘"
-global.ownernumber = '2349167044821'
+global.botname = "༒𝚝𝚑𝚎 𝚍𝚎𝚟𝚒𝚕 𝚑𝚒𝚖𝚜𝚎𝚕𝚏༒"
+global.ownernumber = '2348056329505'
 global.ownername = '亗𝚃𝙴𝙲𝙷𝙶𝙾𝙰𝚃亗'
-global.ownerNumber = ["2349124219705@s.whatsapp.net"]
+global.ownerNumber = ["2348056329505@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@DGXeon"
 global.websitex = "https://youtube.com/@DGXeon"
 global.wagc = "https://chat.whatsapp.com/B6hifgu7KbF0Y6hRg0mJAp"
@@ -40,8 +41,8 @@ global.themeemoji = '🌹'
 global.wm = "anonymix Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
 global.packname = "Sticker By"
-global.author = "🦄드림 가이 Xeon\n\n2349043073751"
-global.creator = "2349167044821@s.whatsapp.net"
+global.author = "ANONYMOUS 2348056329505"
+global.creator = "2348056329505@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.sessionName = 'session'
 global.hituet = 0
